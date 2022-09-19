@@ -1,0 +1,53 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "term": "계산기",
+            "def": "calculator"
+        },
+        {
+            "id": 2,
+            "term": "안무",
+            "def": "choreography"
+        },
+        {
+            "id": 3,
+            "term": "전공",
+            "def": "college major"
+        },
+        {
+            "id": 4,
+            "term": "추천",
+            "def": "recommendation"
+        },
+        {
+            "id": 5,
+            "term": "자세",
+            "def": "body position"
+        },
+        {
+            "id": 6,
+            "term": "주년",
+            "def": "anniversary"
+        },
+        {
+            "id": 7,
+            "term": "헷갈리다",
+            "def": "confusing"
+        },
+        {
+            "id": 8,
+            "term": "과학",
+            "def": "science"
+        },
+        {
+            "id": 9,
+            "term": "결혼식",
+            "def": "wedding"
+        },
+        {   "id": 10,
+            "term": "논",
+            "def": "rice paddy"
+        }
+    ]
+}

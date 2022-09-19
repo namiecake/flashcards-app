@@ -1,0 +1,23 @@
+.btn {
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    width: 200px;
+    height: 70px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #ecf0f1;
+    box-shadow: 0px 6px #44103c;
+    background: #511348;
+    margin: auto;
+    margin-top: 120px;
+}
+
+.btn:active {
+    border: none;
+    position: relative;
+    top: 3px;
+    box-shadow: 0px 0px #44103c;
+    background: #511348;
+}
