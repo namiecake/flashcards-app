@@ -1,4 +1,4 @@
-# my-flashcards
+# flashcards-app
 A personal project implementing the use of flashcards for memorization.
 
 
